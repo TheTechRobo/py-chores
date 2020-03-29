@@ -2,4 +2,5 @@
 Python chores script
 
 
-###### Work in progress. It kinda sucks right now.
+### Note
+choreSnake is currently suspended. It wasn't going anywhere, anyway.
